@@ -11,6 +11,3 @@ Terdapat script otomatis (`run.bat`) yang akan meminta Anda memasukkan nama VM (
 - Konfigurasi **SMBIOS terbaru** agar kompatibel
 - Mendukung prosesor Intel/AMD (hasil dapat bervariasi)
 
----
-
-## 📦 Struktur Folder
